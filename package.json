@@ -1,0 +1,29 @@
+{
+  "name": "study-nodejs",
+  "version": "1.0.0",
+  "description": "node js for beginner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phapnguyennhat/study-nodejs.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "for",
+    "beginner"
+  ],
+  "author": "nguyen phap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phapnguyennhat/study-nodejs/issues"
+  },
+  "homepage": "https://github.com/phapnguyennhat/study-nodejs#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
